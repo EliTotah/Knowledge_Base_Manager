@@ -20,9 +20,9 @@ A command-line tool that simulates a support knowledge base. This knowledge base
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/EliTotah/Knowledge_Base_Manager.git
-   ```
+```bash
+git clone https://github.com/EliTotah/Knowledge_Base_Manager.git
+```
 
 ## Running the Application
 
